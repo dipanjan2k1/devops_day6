@@ -1,0 +1,2 @@
+[webservers]
+worker ansible_host=worker-node-private-ip ansible_user=ubuntu
